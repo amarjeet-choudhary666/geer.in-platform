@@ -1,3 +1,5 @@
+#File Running command and tech stack info
+
 # Run frontend nextjs: 
 npm run dev
 
