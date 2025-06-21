@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///D:/E-commerce%20Platform%20like%20Geer.in/frontend/src/app/landingpage/earring/components/ImageBanner.tsx"],"sourcesContent":["'use client';\r\n\r\nimport Image from 'next/image';\r\n\r\nexport default function ImageBanner() {\r\n  return (\r\n    <div className=\"w-full flex justify-center items-center text-white py-6\">\r\n      <Image\r\n        src=\"/images/banner.png\"\r\n        alt=\"Engagement Banner\"\r\n        width={1600}\r\n        height={700}\r\n        className=\"w-full\"\r\n        priority\r\n      />\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;AAEA;AAFA;;;AAIe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC,6HAAA,CAAA,UAAK;YACJ,KAAI;YACJ,KAAI;YACJ,OAAO;YACP,QAAQ;YACR,WAAU;YACV,QAAQ;;;;;;;;;;;AAIhB","debugId":null}}]
+}

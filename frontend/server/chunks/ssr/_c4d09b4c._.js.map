@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 24, "column": 0}, "map": {"version":3,"sources":["file:///D:/E-commerce%20Platform%20like%20Geer.in/frontend/src/app/landingpage/earing/components/ImageBanner.tsx"],"sourcesContent":["import Image from 'next/image';\r\n\r\nexport default function ImageBanner() {\r\n    return (\r\n        <div className=\"w-full py-4 flex justify-center items-center\">\r\n            <Image\r\n                src=\"https://geer.in/cdn/shop/files/Engagement_MB.png?v=1741270843&width=1100\"\r\n                alt=\"image banner\"\r\n                width={1100}\r\n                height={400}\r\n                className=\"w-[70%] rounded-xl object-cover\"\r\n                priority\r\n            />\r\n        </div>\r\n    );\r\n}"],"names":[],"mappings":";;;;AAAA;;;AAEe,SAAS;IACpB,qBACI,8OAAC;QAAI,WAAU;kBACX,cAAA,8OAAC,6HAAA,CAAA,UAAK;YACF,KAAI;YACJ,KAAI;YACJ,OAAO;YACP,QAAQ;YACR,WAAU;YACV,QAAQ;;;;;;;;;;;AAIxB","debugId":null}},
+    {"offset": {"line": 58, "column": 0}, "map": {"version":3,"sources":["file:///D:/E-commerce%20Platform%20like%20Geer.in/frontend/src/app/landingpage/earing/page.tsx"],"sourcesContent":["import ImageBanner from \"./components/ImageBanner\";\r\n\r\nexport default function Earing(){\r\n    return(\r\n        <ImageBanner/>\r\n    )\r\n}"],"names":[],"mappings":";;;;AAAA;;;AAEe,SAAS;IACpB,qBACI,8OAAC,iKAAA,CAAA,UAAW;;;;;AAEpB","debugId":null}}]
+}

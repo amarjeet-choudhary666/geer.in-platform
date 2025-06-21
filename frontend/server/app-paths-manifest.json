@@ -1,0 +1,14 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/landingpage/page": "app/landingpage/page.js",
+  "/page": "app/page.js",
+  "/products/earring/dangler/page": "app/products/earring/dangler/page.js",
+  "/products/earring/hoops/page": "app/products/earring/hoops/page.js",
+  "/products/earring/page": "app/products/earring/page.js",
+  "/products/earring/studs/page": "app/products/earring/studs/page.js",
+  "/products/page": "app/products/page.js",
+  "/products/rings/fashion/page": "app/products/rings/fashion/page.js",
+  "/products/rings/page": "app/products/rings/page.js",
+  "/products/rings/wedding/page": "app/products/rings/wedding/page.js"
+}

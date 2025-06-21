@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 24, "column": 0}, "map": {"version":3,"sources":["file:///D:/E-commerce%20Platform%20like%20Geer.in/frontend/src/app/page.tsx"],"sourcesContent":["import { redirect } from \"next/navigation\";\n\n\nexport default function Home() {\n  return (\n    \n    redirect('/landingpage')\n  );\n}\n"],"names":[],"mappings":";;;AAAA;AAAA;;AAGe,SAAS;IACtB,OAEE,CAAA,GAAA,qLAAA,CAAA,WAAQ,AAAD,EAAE;AAEb","debugId":null}}]
+}
